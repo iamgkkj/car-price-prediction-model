@@ -2,6 +2,20 @@
 
 An end-to-end Machine Learning web application that predicts the resale price of a car based on its specifications, features, and history. The system trains a Random Forest Regressor model on historical automotive data and serves real-time predictions via a production-ready Flask interface deployed in the cloud.
 
+## 📱 Scan for Live Demo 🚀
+
+<p align="center">
+  <a href="https://car-price-prediction-model.onrender.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/iamgkkj/car-price-prediction-model/f00b2a5b7139760983022f4d19690f8eaab4abdd/static/logo.png"
+         alt="Scan for Live Demo"
+         width="240">
+  </a>
+</p>
+
+<p align="center">
+  <strong>📲 Scan the QR Code to Open the Live Demo 🚗💨</strong><br>
+  <em>or click the QR code to visit the application directly.</em>
+</p>
 ---
 
 ## 👤 Developer Profile
@@ -12,6 +26,7 @@ An end-to-end Machine Learning web application that predicts the resale price of
 ---
 
 ## 🔗 Project Links
+
 * **Live Web Application:** [https://car-price-prediction-model-xvov.onrender.com] (Render link for production deployment)
 * **GitHub Repository:** [https://github.com/iamgkkj/car-price-prediction-model] (GitHub repository link)
 
